@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Isto é um Petshop</h1>
+    <h1>Página principal</h1>
   </div>
 </template>
 

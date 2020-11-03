@@ -1,7 +1,5 @@
 <template>
-  <div>
-    <h1>Isto é um Petshop</h1>
-  </div>
+  <div></div>
 </template>
 
 <script>
