@@ -1,5 +1,5 @@
 <template>
-  <div></div>
+  <div>Isto é uma recepção</div>
 </template>
 
 <script>

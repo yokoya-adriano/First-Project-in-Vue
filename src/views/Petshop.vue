@@ -1,11 +1,17 @@
 <template>
   <div>
-    <h1>Isto é um Petshop</h1>
+    <recepcao></recepcao>
   </div>
 </template>
 
 <script>
-export default {};
+import Recepcao from '@/components/Recepcao';
+
+export default {
+  components: {
+    'client-register': Recepcao,
+  },
+};
 </script>
 
 <style></style>
